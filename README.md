@@ -15,13 +15,13 @@
 
 ### 🕵️中文导航免费资源 [@muxlisabonu](https://t.me/muxlisabonu?start=NTgzNzg1NTEy)
 
-### 🕵️影子社工库 [@KMGG_BOT](https://t.me/KMGG_BOT?start=NTgzNzg1NTEy)
+### 🕵️暗精灵1社工库 [@AJL03_bot](https://t.me/AJL01_bot?start=NTgzNzg1NTEy)
 
-### 🕵️海豚社工库 [@htcqd](https://t.me/htcqd?start=NTgzNzg1NTEy)
+### 🕵️暗精灵2社工库 [AJL02_bot](https://t.me/AJL02_bot?start=NTgzNzg1NTEy)
 
-### 🕵️索引社工库 [@kefu_i8](https://t.me/kefu_i8?start=NTgzNzg1NTEy)
+### 🕵️暗精灵3社工库 [AJL01_bot](https://t.me/AJL03_bot?start=NTgzNzg1NTEy)
 
-## 🕵️K6社工库 [@ku77777](https://t.me/ku77777?start=NTgzNzg1NTEy)
+## 🕵️巨人社工库 [@jrsgk2_bot](https://t.me/jrsgk2_bot?start=NTgzNzg1NTEy)
 
 参考文章：
 
